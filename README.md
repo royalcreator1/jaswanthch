@@ -30,7 +30,7 @@ I'm a passionate **Software Engineer** with 4 years of experience specializing i
 
 ## 📫 Connect With Me
 - **LinkedIn:** [Jashu's Profile](https://www.linkedin.com/in/ch-v-n-s-jaswanth/)
-- **GitHub:** [@jaswanth-github](https://github.com/jaswanth-github)
+- **GitHub:** [@jroyalcreator1](https://github.com/royalcreator1)
 - **Email:** jaswanth.dev@gmail.com
 
 🔥 Always learning, building, and innovating! Let's connect and collaborate! 🚀
